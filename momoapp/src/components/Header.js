@@ -36,7 +36,7 @@ function Header() {
     <Card style={{ width: '8rem', height: '7rem'}}>
   <Card.Img variant="top" src="holder.js/100px180" />
   <Card.Body>
-    <Card.Title>Chinese</Card.Title>
+    <Card.Title> <Nav.Link>Chinese</Nav.Link></Card.Title>
     <Card.Text>
       200 Words
     </Card.Text>
